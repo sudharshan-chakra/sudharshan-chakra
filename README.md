@@ -1,4 +1,4 @@
-### Hey there! 👋 I am Sudharshan Chakravarthy, a backend engineer at Gurucul
+### Hey there! 👋 I am Sudharshan Chakravarthy, a Software Engineer (Cybersecurity) at Gurucul
 #### ex-SDE at Amazon
 #### MS CS graduate from University of California, San Diego (UCSD) 
 
