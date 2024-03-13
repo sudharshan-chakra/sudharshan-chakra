@@ -3,7 +3,7 @@
 #### MS CS graduate from University of California, San Diego (UCSD) 
 
 - 🌱 I’m currently learning SIEM and SOAR Technologies
-- 👯 I’m looking to collaborate on Competitive Programming
+- 👯 I’m looking to collaborate on Cloud integrations
 - 🤔 I’m looking for help with learning Cybersecurity and Backend Engineering
 - 💬 Ask me about #cybersecurity, #backendengineering, #deeplearning 
 - 📫 Reach me at <chakravarthy.sudharshan@gmail.com> 
