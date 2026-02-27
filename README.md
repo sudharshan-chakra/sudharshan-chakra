@@ -1,4 +1,4 @@
-### Hey there! 👋 I am Sudharshan Chakravarthy
+### Hey there! I am Sudharshan Chakravarthy
 #### ex - Amazon, Gurucul
 #### MS CS (AI) graduate from University of California, San Diego (UCSD) 
 
